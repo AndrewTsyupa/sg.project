@@ -4,6 +4,10 @@
 
 php artisan migrate:refresh --seed
 
+## Відео
+
+[SG.project video](https://youtu.be/szGFKnIs7EY)
+
 ## Користувачі
 
 admin@admin.com
